@@ -1,0 +1,17 @@
+body {
+    background-color: #9900ff;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#primeira-div {
+    background-color: rgb(247, 52, 52);
+    width: 300px;
+    float: left;
+}
+
+#segunda-div {
+    background-color: rgb(51, 255, 0);
+    width: 300px;
+    float: left;
+}
