@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(62, 230, 70);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.principal{
+    width: 800px;
+    margin: 0 auto;
+    background-color: aqua;
+    text-align: center;
+}
+.converte_binario{
+color: antiquewhite;
+background-color: brown;
+}
+
+.converte_binario:hover{
+    background-color: blue;
+}
+
+@media(max-width:900px){
+    .principal{
+        width: 400px;
+        background-color: rgb(228, 48, 235);
+    }
+}
